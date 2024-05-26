@@ -1,0 +1,13 @@
+#resultado {
+    font-weight: bold;
+    font-size: 100px;
+    text-align: center;
+}
+
+.container{
+    background-color: lightblue;
+}
+
+#canvas{
+    border: 2px dashed black;
+}
